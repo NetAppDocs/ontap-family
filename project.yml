@@ -14,7 +14,7 @@ product-family:
   # limit search to 4 repos: ontap, mcc, CLI & automation?
   sidebarlinks: 
     - title: All products
-      tags: all,tag_data_management,tag_automation,tag_systems
+      tags: all,tag_data_management,tag_automation,tag_systems,tag_data_protection,tag_data_migration
       class: active
     - title: Data Management 
       tags: tag_data_management
@@ -22,64 +22,74 @@ product-family:
       tags: tag_automation
     - title: Systems
       tags: tag_systems
+    - title: Data Protection 
+      tags: tag_data_protection
+    - title: Data Migration 
+      tags: tag_data_migration
 
   tiles: 
     - title: "ONTAP" 
       icon: ./media/cli.png
       url: https://docs.netapp.com/us-en/ontap/index.html
-      summary: "ONTAP brings the simplicity and flexibility of cloud to your data center and brings all the enterprise capabilities of your data center to the public cloud. "
+      summary: "Deploy ONTAP data management software in your data center for simple and flexible integration of on-premises and cloud environments."
       tags: all, tag_data_management
-    - title: "ONTAP Command Reference"
+    - title: "ONTAP commands"
       icon: ./media/cli.png
       url: https://docs.netapp.com/us-en/ontap-cli-9111/
-      summary: "Work with ONTAP using the CLI."
+      summary: "Learn about the commands available to you in the ONTAP CLI."
+    - title: "ONTAP Automation"
+      icon: ./media/api.png
+      url: https://docs.netapp.com/us-en/ontap-automation/index.html 
+      summary: "Automate the deployment and administration of your ONTAP storage systems using the ONTAP REST API and supporting technologies."
+      tags: all, tag_automation 
+    - title: "ONTAP Systems"
+      icon: ./media/server.png
+      url: https://docs.netapp.com/us-en/ontap-systems-family/
+      summary: "Learn about the ONTAP systems family of storage platforms, shelves, switches, and supporting hardware."
+      tags: all, tag_systems
+    - title: "Cloud Volumes ONTAP"
+      icon: ./media/server.png
+      url: https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/index.html
+      summary: "Deploy a virtual instance of ONTAP to make cloud storage more affordable, intelligent, compliant, and secure."
+      tags: all, tag_data_management
+    - title: "ONTAP Select"
+      icon: ./media/cli.png
+      url: https://docs.netapp.com/us-en/ontap-select/
+      summary: "Deploy ONTAP as a software-defined storage appliance on a variety of commodity hardware servers running the VMware ESXi hypervisor."
+      tags: all, tag_data_management
+    - title: "ONTAP MetroCluster"
+      icon:  ./media/server.png
+      url: https://docs.netapp.com/us-en/ontap-metrocluster/
+      summary: "Protect your storage using array-based clustering with synchronous replication to deliver continuous availability."
+      tags: all, tag_data_management, tag_data_protection
+    - title: "ONTAP 7-Mode Transition"
+      icon: ./media/cli.png
+      url: https://docs.netapp.com/us-en/ontap-7mode-transition/
+      summary: "Transition data from legacy 7-mode to modern clustered storage platforms."
+      tags: all, tag_data_management, tag_data_migration
     - title: "ONTAP System Manager Classic"
       icon: ./media/cli.png
       url: https://docs.netapp.com/us-en/ontap-sm-classic/index.html
       summary: "Learn about ONTAP's System Manager Classic interface for 9.7 and earlier releases."
       tags: all, tag_data_management
-    - title: "ONTAP Automation"
-      icon: ./media/api.png
-      url: https://docs.netapp.com/us-en/ontap-automation/index.html 
-      summary: "You can automate the deployment and administration of your ONTAP storage systems using"
-      tags: all, tag_automation 
-    - title: "ONTAP MetroCluster"
-      icon:  ./media/server.png
-      url: https://docs.netapp.com/us-en/ontap-metrocluster/
-      summary: "MetroCluster™ configurations combine array-based clustering with synchronous replication to deliver continuous availability."
-      tags: all, tag_data_management
-    - title: ONTAP Foreign LUN Import 
-      icon: ./media/cli.png
-      url: https://docs.netapp.com/us-en/ontap-fli/
-      summary: "Foreign LUN Import helps you transition your foreign LUNs to NetApp LUNs."
+    - title: "ONTAP SAN Host Configuration"
+      icon: ./media/server.png
+      url: https://docs.netapp.com/us-en/ontap-sanhost/
+      summary: "Configure ONTAP SAN hosts for the NVMe, iSCSI, and FC protocols."
       tags: all, tag_data_management
     - title: "ONTAP FlexArray"
       icon: ./media/cli.png
       url: https://docs.netapp.com/us-en/ontap-flexarray/
-      summary: "You can add storage when and where you require it, without disruption"
+      summary: "Use array LUNs to present E-series and third-party arrays as storage served by ONTAP."
       tags: all, tag_data_management
-    - title: "ONTAP 7-Mode Transition"
+    - title: ONTAP Foreign LUN Import 
       icon: ./media/cli.png
-      url: https://docs.netapp.com/us-en/ontap-7mode-transition/
-      summary: "Transition data using SnapMirror commands and complete pre- and post transition procedures."
-      tags: all, tag_data_management
-    - title: "ONTAP SAN Host Configuration"
-      icon: ./media/server.png
-      url: https://docs.netapp.com/us-en/ontap-sanhost/
-      summary: "Learn how to configure ONTAP SAN hosts for the NVMe, iSCSI, and FC protocols."
-      tags: all, tag_data_management
-    - title: "ONTAP Select"
-      icon: ./media/cli.png
-      url: https://docs.netapp.com/us-en/ontap-select/
-      summary: "ONTAP Select is a software-defined storage appliance you can deploy on a variety of commodity hardware servers running the VMware ESXi hypervisor."
-      tags: all, tag_data_management
-    - title: "Cloud Volumes ONTAP"
-      icon: ./media/server.png
-      url: https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/index.html
-      summary: "Description coming"
-      tags: all, tag_data_management
-    - title: "ONTAP Systems"
-      icon: ./media/server.png
-      url: https://docs.netapp.com/us-en/ontap-systems-family/
-      summary: "Learn about the ONTAP systems product family"
-      tags: all, tag_systems
+      url: https://docs.netapp.com/us-en/ontap-fli/
+      summary: "Migrate LUNs from third-party arrays and 7-mode systems to modern NetApp storage."
+      tags: all, tag_data_management, tag_data_migration
+
+
+
+
+
+
