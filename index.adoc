@@ -4,5 +4,4 @@ permalink: index.html
 lead: "The ONTAP family is here for all of your data management needs. "
 summary: "The ONTAP family is here for all of your data management needs. "
 ---
-
-= ONTAP documentaiton
+= ONTAP documentation
