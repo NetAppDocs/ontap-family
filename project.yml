@@ -1,12 +1,87 @@
 ---
 settings:
-  name: ONTAP Family
+  name: ONTAP
   internal:
     pdf_enabled: true
   prod:
     pdf_enabled: true
 sidebar:
+  entries:
+    - title: ONTAP product family documentation
+      url: /index.html
+product-family:
+  search: "all,tag_data_management,tag_systems"
+  sidebarlinks: 
+    - title: All products
+      tags: all,tag_data_management,tag_systems
+      class: active
+    - title: Data Management 
+      tags: tag_data_management
+    - title: Systems
+      tags: tag_systems
 
-
-homepage:
   tiles: 
+    - title: "ONTAP" 
+      icon: #icon
+      url: https://docs.netapp.com/us-en/ontap/index.html
+      summary: "ONTAP brings the simplicity and flexibility of cloud to your data center and brings all the enterprise capabilities of your data center to the public cloud. "
+      tags: all, tag_data_management
+    - title: "ONTAP Command Reference"
+      icon:
+      url: https://docs.netapp.com/us-en/ontap-cli-9111/
+      summary: "Operate ONTAP using the CLI."
+    - title: "ONTAP System Manager Classic"
+      icon: 
+      url: https://docs.netapp.com/us-en/ontap-sm-classic/index.html
+      summary: "Learn about ONTAP's System Manager Classic interface for 9.7 and earlier releases."
+      tags: all, tag_data_management
+    - title: "ONTAP Automation"
+      icon:
+      url: https://docs.netapp.com/us-en/ontap-automation/index.html 
+      summary: "You can automate the deployment and administration of your ONTAP storage systems using"
+      tags: all, tag_automation 
+    - title: "ONTAP MetroCluster"
+      icon: 
+      url: 
+      summary: "MetroCluster™ configurations combine array-based clustering with synchronous replication to deliver continuous availability."
+      tags: all 
+    - title: ONTAP Foreign LUN Import 
+      icon: 
+      url: https://docs.netapp.com/us-en/ontap-fli/
+      summary: 
+      tags: all
+    - title: "ONTAP FlexArray"
+      icon: 
+      url: https://docs.netapp.com/us-en/ontap-flexarray/
+      summary: 
+      tags: all 
+    - title: "ONTAP 7-Mode Transition"
+      icon: 
+      url: https://docs.netapp.com/us-en/ontap-7mode-transition/
+      summary: "Transition data using SnapMirror commands and complete pre- and post transition procedures."
+      tags: all
+    - title: "ONTAP SAN Host Configuration"
+      icon: 
+      url: https://docs.netapp.com/us-en/ontap-sanhost/
+      summary: ""
+      tags: all 
+    - title: "ONTAP Select"
+      icon: 
+      url: https://docs.netapp.com/us-en/ontap-select/
+      summary: "ONTAP Select is a software-defined storage appliance you can deploy on a variety of commodity hardware servers running the VMware ESXi hypervisor."
+      tags: all 
+    - title: "AFF and FAS Systems"
+      icon: 
+      url: https://docs.netapp.com/us-en/ontap-systems/
+      summary: "NetApp's AFF and FAS storage systems provide leading-edge, enterprise-class, scale-out all flash or hybrid storage with the industry's most advanced data management"
+      tags: all, tag_systems
+    - title: "AFF and FAS Switches"
+      icon: 
+      url: https://docs.netapp.com/us-en/ontap-systems-switches/
+      summary: "Learn how to install, upgrade and maintain your cluster and storage switches."
+      tags: all, tag_systems
+    - title: "AFF and FAS System Upgrade"
+      icon: 
+      url: https://docs.netapp.com/us-en/ontap-systems/
+      summary: "Learn how to upgrade you AFF and FAS systems."
+      tags: all, tag_systems
