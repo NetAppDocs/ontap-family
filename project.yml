@@ -22,14 +22,14 @@ product-family:
 
   tiles: 
     - title: "ONTAP" 
-      icon: #icon
+      icon: 
       url: https://docs.netapp.com/us-en/ontap/index.html
       summary: "ONTAP brings the simplicity and flexibility of cloud to your data center and brings all the enterprise capabilities of your data center to the public cloud. "
       tags: all, tag_data_management
     - title: "ONTAP Command Reference"
       icon:
       url: https://docs.netapp.com/us-en/ontap-cli-9111/
-      summary: "Operate ONTAP using the CLI."
+      summary: "Work with ONTAP using the CLI."
     - title: "ONTAP System Manager Classic"
       icon: 
       url: https://docs.netapp.com/us-en/ontap-sm-classic/index.html
@@ -48,12 +48,12 @@ product-family:
     - title: ONTAP Foreign LUN Import 
       icon: 
       url: https://docs.netapp.com/us-en/ontap-fli/
-      summary: 
+      summary: "TK"
       tags: all
     - title: "ONTAP FlexArray"
       icon: 
       url: https://docs.netapp.com/us-en/ontap-flexarray/
-      summary: 
+      summary: "TK"
       tags: all 
     - title: "ONTAP 7-Mode Transition"
       icon: 
@@ -63,7 +63,7 @@ product-family:
     - title: "ONTAP SAN Host Configuration"
       icon: 
       url: https://docs.netapp.com/us-en/ontap-sanhost/
-      summary: ""
+      summary: "TK"
       tags: all 
     - title: "ONTAP Select"
       icon: 
