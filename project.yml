@@ -30,7 +30,7 @@ product-family:
 
   tiles: 
     - title: "ONTAP" 
-      icon: ./media/cli.png
+      icon: ./media/icon-onprem.png
       url: https://docs.netapp.com/us-en/ontap/index.html
       summary: "Deploy ONTAP data management software in your data center for simple and flexible integration of on-premises and cloud environments."
       tags: all, tag_data_management
@@ -43,13 +43,13 @@ product-family:
       url: https://docs.netapp.com/us-en/ontap-automation/index.html 
       summary: "Automate the deployment and administration of your ONTAP storage systems using the ONTAP REST API and supporting technologies."
       tags: all, tag_automation 
-    - title: "ONTAP Systems"
-      icon: ./media/server.png
+    - title: "ONTAP Systems family"
+      icon: ./media/groups_line.png
       url: https://docs.netapp.com/us-en/ontap-systems-family/
       summary: "Learn about the ONTAP systems family of storage platforms, shelves, switches, and supporting hardware."
       tags: all, tag_systems
     - title: "Cloud Volumes ONTAP"
-      icon: ./media/server.png
+      icon: ./media/icon-cvo.png
       url: https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/index.html
       summary: "Deploy a virtual instance of ONTAP to make cloud storage more affordable, intelligent, compliant, and secure."
       tags: all, tag_data_management
@@ -59,7 +59,7 @@ product-family:
       summary: "Protect your storage using array-based clustering with synchronous replication to deliver continuous availability."
       tags: all, tag_data_protection
     - title: "ONTAP Select"
-      icon: ./media/cli.png
+      icon: ./media/server.png
       url: https://docs.netapp.com/us-en/ontap-select/
       summary: "Deploy ONTAP as a software-defined storage appliance on a variety of commodity hardware servers running the VMware ESXi hypervisor."
       tags: all, tag_data_management
@@ -69,7 +69,7 @@ product-family:
       summary: "Configure ONTAP SAN hosts for the NVMe, iSCSI, and FC protocols."
       tags: all, tag_data_management
     - title: "ONTAP System Manager Classic"
-      icon: ./media/cli.png
+      icon: ./media/config_line.png
       url: https://docs.netapp.com/us-en/ontap-sm-classic/index.html
       summary: "Learn about ONTAP's System Manager Classic interface for 9.7 and earlier releases."
       tags: all, tag_data_management
