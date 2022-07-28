@@ -13,7 +13,7 @@ product-family:
   search: "ontap-ontap_main-prod,ontap-ontap-cli-9111_main-prod,ontap-ontap-sm-classic_main-prod,ontap-ontap-automation_main-prod,ontap-ontap-metrocluster_main-prod,ontap-ontap-fli_main-prod,ontap-ontap-flexarray_main-prod,ontap-ontap-7mode-transition_main-prod,ontap-ontap-sanhost_main-prod,ontap-ontap-select_main-prod,ontap-ontap-systems_main-prod,ontap-ontap-systems-switches_main-prod,ontap-ontap-systems-upgrade_main-prod"
   # limit search to 4 repos: ontap, mcc, CLI & automation?
   sidebarlinks: 
-    - title: All products
+    - title: All docs
       tags: all,tag_data_management,tag_automation,tag_systems,tag_data_protection,tag_data_migration
       class: active
     - title: Automation
@@ -40,7 +40,7 @@ product-family:
       summary: "Learn about the commands available to you in the ONTAP CLI."
       tags: all, tag_data_management
     - title: "ONTAP Automation"
-      icon: ./media/api.png
+      icon: ./media/icon-api.png
       url: https://docs.netapp.com/us-en/ontap-automation/index.html 
       summary: "Automate the deployment and administration of your ONTAP storage systems using the ONTAP REST API and supporting technologies."
       tags: all, tag_automation 
