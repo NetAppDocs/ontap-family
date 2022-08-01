@@ -13,16 +13,16 @@ product-family:
   search: "ontap-ontap_main-prod,ontap-ontap-cli-9111_main-prod,ontap-ontap-sm-classic_main-prod,ontap-ontap-automation_main-prod,ontap-ontap-metrocluster_main-prod,ontap-ontap-fli_main-prod,ontap-ontap-flexarray_main-prod,ontap-ontap-7mode-transition_main-prod,ontap-ontap-sanhost_main-prod,ontap-ontap-select_main-prod,ontap-ontap-systems_main-prod,ontap-ontap-systems-switches_main-prod,ontap-ontap-systems-upgrade_main-prod"
   # limit search to 4 repos: ontap, mcc, CLI & automation?
   sidebarlinks: 
-    - title: All docs
+    - title: All
       tags: all,tag_data_management,tag_automation,tag_systems,tag_data_protection,tag_data_migration
       class: active
     - title: Automation
       tags: tag_automation
-    - title: Data Management 
+    - title: Data management 
       tags: tag_data_management
-    - title: Data Migration 
+    - title: Data migration 
       tags: tag_data_migration
-    - title: Data Protection 
+    - title: Data protection 
       tags: tag_data_protection
     - title: Systems
       tags: tag_systems
@@ -32,7 +32,7 @@ product-family:
     - title: "ONTAP" 
       icon: ./media/icon-onprem.png
       url: https://docs.netapp.com/us-en/ontap/index.html
-      summary: "Deploy ONTAP data management software in your data center for simple and flexible integration of on-premises and cloud environments."
+      summary: "Deploy and manage ONTAP 9 data management software in your data center using the ONTAP CLI and the latest versions of ONTAP System Manager (ONTAP 9.7 and later)."
       tags: all, tag_data_management
     - title: "ONTAP commands"
       icon: ./media/cli.png
@@ -72,7 +72,7 @@ product-family:
     - title: "ONTAP System Manager Classic"
       icon: ./media/config_line.png
       url: https://docs.netapp.com/us-en/ontap-sm-classic/index.html
-      summary: "Learn about ONTAP's System Manager Classic interface for 9.7 and earlier releases."
+      summary: "ONTAP 9.7 and earlier uses a different layout for the ONTAP System Manager interface. ."
       tags: all, tag_data_management
     - title: "ONTAP 7-Mode Transition"
       icon: ./media/cli.png
