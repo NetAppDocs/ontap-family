@@ -55,7 +55,7 @@ product-family:
       summary: "Deploy a virtual instance of ONTAP to make cloud storage more affordable, intelligent, compliant, and secure."
       tags: all, tag_data_management
     - title: "ONTAP MetroCluster"
-      icon:  ./media/server.png
+      icon:  ./media/metrocluster.png
       url: https://docs.netapp.com/us-en/ontap-metrocluster/
       summary: "Protect your storage using array-based clustering with synchronous replication to deliver continuous availability."
       tags: all, tag_data_protection
