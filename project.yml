@@ -75,7 +75,7 @@ product-family:
       summary: "ONTAP 9.7 and earlier uses a different layout for the ONTAP System Manager interface. ."
       tags: all, tag_data_management
     - title: "ONTAP 7-Mode Transition"
-      icon: ./media/cli.png
+      icon: ./media/transition-tools.png
       url: https://docs.netapp.com/us-en/ontap-7mode-transition/
       summary: "Transition data from legacy 7-mode to modern clustered storage platforms."
       tags: all, tag_data_migration
@@ -86,7 +86,7 @@ product-family:
       summary: "Use array LUNs to present E-series and third-party arrays as storage served by ONTAP."
       tags: all, tag_data_management
     - title: ONTAP Foreign LUN Import 
-      icon: ./media/cli.png
+      icon: ./media/transition-tools.png
       url: https://docs.netapp.com/us-en/ontap-fli/
       summary: "Migrate LUNs from third-party arrays and 7-mode systems to modern NetApp storage."
       tags: all, tag_data_migration
