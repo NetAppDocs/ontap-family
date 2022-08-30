@@ -1,7 +1,7 @@
 ---
 layout: product-family
 permalink: index.html
-lead: "The ONTAP family is here for all of your data management needs. "
-summary: "The ONTAP family is here for all of your data management needs. "
+lead: "ONTAP helps you create a storage infrastructure that reduces costs, accelerates critical workloads, and protects and secures data. "
+summary: "ONTAP helps you create a storage infrastructure that reduces costs, accelerates critical workloads, and protects and secures data. "
 ---
-= ONTAP documentation
+= ONTAP product documentation

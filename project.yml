@@ -7,7 +7,7 @@ settings:
     pdf_enabled: true
 sidebar:
   entries:
-    - title: ONTAP product family documentation
+    - title: ONTAP product documentation
       url: /index.html
 product-family:
   search: "ontap-ontap_main-prod,ontap-ontap-cli-9111_main-prod,ontap-ontap-sm-classic_main-prod,ontap-ontap-automation_main-prod,ontap-ontap-metrocluster_main-prod,ontap-ontap-fli_main-prod,ontap-ontap-flexarray_main-prod,ontap-ontap-7mode-transition_main-prod,ontap-ontap-sanhost_main-prod,ontap-ontap-select_main-prod,ontap-ontap-systems_main-prod,ontap-ontap-systems-switches_main-prod,ontap-ontap-systems-upgrade_main-prod"
@@ -44,10 +44,10 @@ product-family:
       url: https://docs.netapp.com/us-en/ontap-automation/index.html 
       summary: "Automate the deployment and administration of your ONTAP storage systems using the ONTAP REST API and supporting technologies."
       tags: all, tag_automation 
-    - title: "AFF and FAS family"
+    - title: "AFF and FAS documentation"
       icon: ./media/groups_line.png
       url: https://docs.netapp.com/us-en/ontap-systems-family/
-      summary: "Use the AFF and FAS family page to find information on how to install, maintain and upgrade your AFF and FAS systems and cluster and storage switches."
+      summary: "Use the AFF and FAS documentation page to find information on how to install, maintain and upgrade your AFF and FAS systems and cluster and storage switches."
       tags: all, tag_systems
     - title: "Cloud Volumes ONTAP"
       icon: ./media/icon-cvo.png
@@ -72,7 +72,7 @@ product-family:
     - title: "ONTAP System Manager Classic"
       icon: ./media/config_line.png
       url: https://docs.netapp.com/us-en/ontap-sm-classic/index.html
-      summary: "ONTAP 9.7 and earlier uses a different layout for the ONTAP System Manager interface. ."
+      summary: "ONTAP 9.7 and earlier uses a different layout for the ONTAP System Manager interface."
       tags: all, tag_data_management
     - title: "ONTAP 7-Mode Transition"
       icon: ./media/transition-tools.png
