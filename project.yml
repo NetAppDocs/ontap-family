@@ -10,8 +10,8 @@ sidebar:
     - title: ONTAP product documentation
       url: /index.html
 product-family:
-  search: "ontap-ontap_main-prod,ontap-ontap-cli-9111_main-prod,,ontap-ontap-automation_main-prod,ontap-ontap-metrocluster_main-prod,ontap-ontap-ems-9111_main-prod"
-  # ontap-ontap-sm-classic_main-prod,ontap-ontap-fli_main-prod,ontap-ontap-flexarray_main-prod,ontap-ontap-7mode-transition_main-prod,ontap-ontap-sanhost_main-prod,ontap-ontap-select_main-prod,ontap-ontap-systems_main-prod,ontap-ontap-systems-switches_main-prod,ontap-ontap-systems-upgrade_main-prod
+  search: "clouddocs-ontap_main-prod,clouddocs-ontap-cli-9111_main-prod,,clouddocs-ontap-automation_main-prod,clouddocs-ontap-metrocluster_main-prod,clouddocs-ontap-ems-9111_main-prod"
+  # clouddocs-ontap-sm-classic_main-prod,clouddocs-ontap-fli_main-prod,clouddocs-ontap-flexarray_main-prod,clouddocs-ontap-7mode-transition_main-prod,clouddocs-ontap-sanhost_main-prod,clouddocs-ontap-select_main-prod,clouddocs-ontap-systems_main-prod,clouddocs-ontap-systems-switches_main-prod,clouddocs-ontap-systems-upgrade_main-prod
   sidebarlinks: 
     - title: All
       tags: all,tag_data_management,tag_automation,tag_systems,tag_data_protection,tag_data_migration
