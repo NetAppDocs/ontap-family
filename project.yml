@@ -53,6 +53,11 @@ product-family:
       url: https://docs.netapp.com/us-en/ontap-systems-family/
       summary: "Use the AFF and FAS documentation page to find information on how to install, maintain and upgrade your AFF and FAS systems and cluster and storage switches."
       tags: all, tag_systems
+    - title: "ONTAP Technical Reports" 
+      icon: ./media/icon-onprem.png
+      url: https://docs.netapp.com/us-en/ontap-technical-reports/index.html
+      summary: "Learn more about ONTAP architecture and how to optimize ONTAP for specific workloads and environments."
+      tags: all, tag_data_management, tag_data_protection
     - title: "Cloud Volumes ONTAP"
       icon: ./media/icon-cvo.png
       url: https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/index.html
