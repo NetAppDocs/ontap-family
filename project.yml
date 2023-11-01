@@ -31,7 +31,7 @@ product-family:
     - title: "ONTAP" 
       icon: ./media/icon-onprem.png
       url: https://docs.netapp.com/us-en/ontap/index.html
-      summary: "Deploy and manage ONTAP 9 data management software in your data center using the ONTAP CLI and the latest versions of ONTAP System Manager (ONTAP 9.7 and later)."
+      summary: "Deploy and manage ONTAP 9 data management software in your data center using ONTAP System Manager and the ONTAP CLI."
       tags: all, tag_data_management, tag_data_protection
     - title: "ONTAP automation"
       icon: ./media/icon-api.png
@@ -48,10 +48,10 @@ product-family:
       url: https://docs.netapp.com/us-en/ontap-metrocluster/
       summary: "Protect your storage using array-based clustering with synchronous replication to deliver continuous availability."
       tags: all, tag_data_protection
-    - title: "AFF A-Series and C-Series, FAS, All SAN Array, and switches"
+    - title: "AFF A-Series and C-Series, FAS, All-Flash SAN Array, and switches"
       icon: ./media/groups_line.png
       url: https://docs.netapp.com/us-en/ontap-systems-family/
-      summary: "Use the AFF and FAS documentation page to find information on how to install, maintain and upgrade your AFF and FAS systems and cluster and storage switches."
+      summary: "Learn how to install, maintain and upgrade your AFF, FAS, and All-Flash SAN Array systems, as well as cluster and storage switches."
       tags: all, tag_systems
     - title: "ONTAP technical reports" 
       icon: ./media/icon-onprem.png
