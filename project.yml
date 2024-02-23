@@ -1,7 +1,7 @@
 ---
 settings:
   name: ONTAP
-  search: "ontap,ontap-cli-9141,ontap-automation,ontap-metrocluster"
+  search: "ontap,ontap-cli-9141,ontap-automation,ontap-metrocluster,ontap-systems-switches,ontap-technical-reports,ontap-sanhost"
   internal:
     pdf_enabled: false
   prod:
@@ -73,7 +73,7 @@ product-family:
       url: https://docs.netapp.com/us-en/ontap-sanhost/
       summary: "Configure ONTAP SAN hosts for the NVMe, iSCSI, and FC protocols."
       tags: all, tag_data_management
-    - title: "ONTAP System Manager Classic"
+    - title: "ONTAP System Manager (ONTAP 9.7 and earlier)"
       icon: ./media/config_line.png
       url: https://docs.netapp.com/us-en/ontap-sm-classic/index.html
       summary: "ONTAP 9.7 and earlier uses a different layout for the ONTAP System Manager interface."
