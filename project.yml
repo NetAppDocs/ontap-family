@@ -28,12 +28,12 @@ product-family:
       tags: sds
 
   tiles: 
-    - title: "AFF, ASA, and FAS"
+    - title: "AFF, ASA, and FAS systems"
       icon: ./media/groups_line.png
       url: https://docs.netapp.com/us-en/ontap-systems-family/
       summary: "Learn how to install, maintain and upgrade your AFF, FAS, and All-Flash SAN Array systems, as well as cluster and storage switches."
       tags: all, hardware
-    - title: "ASA r2"
+    - title: "ASA r2 systems"
       icon: ./media/groups_line.png
       url: https://docs.netapp.com/us-en/ontap-systems-family/
       summary: "Learn how to install and maintain your All-Flash SAN Array r2 systems."
@@ -41,12 +41,12 @@ product-family:
     - title: "ONTAP 9 for AFF, FAS, and ASA" 
       icon: ./media/icon-onprem.png
       url: https://docs.netapp.com/us-en/ontap/index.html
-      summary: "Manage your data on AFF, FAS, and ASA systems using ONTAP 9 data management software."
+      summary: "Manage data on AFF, FAS, and ASA systems using ONTAP 9 data management software."
       tags: all, data
     - title: "ONTAP 9 for ASA r2" 
       icon: ./media/icon-onprem.png
       url: https://docs.netapp.com/us-en/ontap/index.html
-      summary: "Manage your data on ASA r2 systems using ONTAP 9 data management software."
+      summary: "Manage data on ASA r2 systems using ONTAP 9 data management software."
       tags: all, data
     - title: "Amazon FSx for NetApp ONTAP"
       icon: ./media/icon-cvo.png
