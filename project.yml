@@ -41,7 +41,7 @@ product-family:
       url: https://docs.netapp.com/us-en/ontap/index.html
       summary: "Manage data on AFF, FAS, and ASA systems using ONTAP 9 data management software."
       tags: all, data
-    - title: "ONTAP 9 for ASA r2" 
+    - title: "ONTAP 9 for ASA r2 systems" 
       icon: ./media/icon-onprem.png
       url: https://docs.netapp.com/us-en/ontap/index.html
       summary: "Manage data on ASA r2 systems using ONTAP 9 data management software."
