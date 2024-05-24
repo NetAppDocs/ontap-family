@@ -36,7 +36,7 @@ product-family:
       url: https://docs.netapp.com/us-en/ontap-systems-family/
       summary: "Learn how to install and maintain your All-Flash SAN Array r2 systems."
       tags: all, hardware
-    - title: "ONTAP 9 for AFF, FAS, and ASA" 
+    - title: "ONTAP 9 for AFF, ASA, and FAS systems" 
       icon: ./media/icon-onprem.png
       url: https://docs.netapp.com/us-en/ontap/index.html
       summary: "Manage data on AFF, FAS, and ASA systems using ONTAP 9 data management software."
