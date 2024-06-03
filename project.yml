@@ -43,7 +43,7 @@ product-family:
       url: https://docs.netapp.com/us-en/ontap-systems-family/
       summary: "Learn how to install, maintain, and upgrade All-Flash FAS systems, All-Flash SAN Array systems, and FAS hybrid-flash arrays."
       tags: all, hardware
-    - title: "All-Flash SAN Array r2 systems"
+    - title: "ASA r2 systems"
       icon: ./media/groups_line.png
       url: https://docs.netapp.com/us-en/ontap-systems-family/
       summary: "Learn how to install and maintain your All-Flash SAN Array r2 systems."
