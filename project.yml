@@ -65,7 +65,7 @@ product-family:
       tags: all, tag_data_management, tag_data_protection
     - title: ONTAP EMS reference
       icon: ./media/cli.png
-      url: https://docs.netapp.com/us-en/ontap-ems-9141/
+      url: https://docs.netapp.com/us-en/ontap-ems/index.html
       summary: "Learn about the Event Messaging System (EMS) events in ONTAP."
       tags: all, tag_data_management
     - title: "ONTAP SAN host configuration"
@@ -75,7 +75,7 @@ product-family:
       tags: all, tag_data_management
     - title: "ONTAP System Manager (ONTAP 9.7 and earlier)"
       icon: ./media/config_line.png
-      url: https://docs.netapp.com/us-en/ontap-sm-classic/index.html
+      url: https://docs.netapp.com/us-en/ontap-system-manager-classic/
       summary: "ONTAP 9.7 and earlier uses a different layout for the ONTAP System Manager interface."
       tags: all, tag_data_management
     - title: "ONTAP 7-Mode Transition"
@@ -91,7 +91,7 @@ product-family:
     - title: "ONTAP Select"
       icon: ./media/server.png
       url: https://docs.netapp.com/us-en/ontap-select/
-      summary: "Deploy ONTAP as a software-defined storage appliance on a variety of commodity hardware servers running the VMware ESXi hypervisor."
+      summary: "Deploy ONTAP as a software-defined storage appliance on a variety of commodity hardware servers running the VMware ESXi or KVM hypervisors."
       tags: all, tag_data_management, tag_data_protection
     - title: "ONTAP FlexArray"
       icon: ./media/cli.png
