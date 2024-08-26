@@ -91,12 +91,12 @@ product-family:
     - title: "ONTAP 7-Mode Transition"
       icon: ./media/transition-tools.png
       url: https://docs.netapp.com/us-en/ontap-7mode-transition/
-      summary: "Transition data from legacy 7-mode to modern clustered storage platforms."
+      summary: "Transition data from legacy 7-Mode to modern clustered storage platforms."
       tags: all, migration
     - title: ONTAP Foreign LUN Import 
       icon: ./media/transition-tools.png
       url: https://docs.netapp.com/us-en/ontap-fli/
-      summary: "Migrate LUNs from third-party arrays and 7-mode systems to modern NetApp storage."
+      summary: "Migrate LUNs from third-party arrays and 7-Mode systems to modern NetApp storage."
       tags: all, migration
 
 
