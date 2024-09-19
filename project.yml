@@ -33,11 +33,6 @@ product-family:
       url: https://docs.netapp.com/us-en/ontap/index.html
       summary: "Use ONTAP software to manage data on All-Flash FAS systems, All-Flash SAN Array systems, and FAS hybrid-flash arrays."
       tags: all, management, protection
-    - title: "ONTAP 9 for ASA r2 systems" 
-      icon: ./media/icon-onprem.png
-      url: https://docs.netapp.com/us-en/ontap/index.html
-      summary: "Use ONTAP software to manage data on All-Flash SAN Array r2 systems."
-      tags: all, management, protection
     - title: "AFF, ASA, and FAS systems"
       icon: ./media/groups_line.png
       url: https://docs.netapp.com/us-en/ontap-systems-family/
@@ -45,8 +40,8 @@ product-family:
       tags: all, hardware
     - title: "ASA r2 systems"
       icon: ./media/groups_line.png
-      url: https://docs.netapp.com/us-en/ontap-systems-family/
-      summary: "Learn how to install and maintain your All-Flash SAN Array r2 systems."
+      url: https://docs.netapp.com/us-en/asa-r2/index.html
+      summary: "Install your ASA r2 system and use ONTAP to manage data."
       tags: all, hardware
     - title: "Cloud Volumes ONTAP"
       icon: ./media/icon-cvo.png
