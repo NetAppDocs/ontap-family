@@ -27,7 +27,7 @@ product-family:
     - title: Hardware systems
       tags: hardware
 
-   tiles: 
+  tiles: 
     - title: "ONTAP 9 for AFF, ASA, and FAS systems" 
       icon: ./media/icon-onprem.png
       url: https://docs.netapp.com/us-en/ontap/index.html
