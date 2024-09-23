@@ -43,16 +43,6 @@ product-family:
       url: https://docs.netapp.com/us-en/asa-r2/index.html
       summary: "Install your ASA r2 system and use ONTAP to manage data."
       tags: all, hardware
-    - title: "Cloud Volumes ONTAP"
-      icon: ./media/icon-cvo.png
-      url: https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/index.html
-      summary: "Deploy a virtual instance of ONTAP to make cloud storage more affordable, intelligent, compliant, and secure."
-      tags: all, management, protection
-    - title: "ONTAP Select"
-      icon: ./media/server.png
-      url: https://docs.netapp.com/us-en/ontap-select/
-      summary: "Deploy ONTAP as a software-defined storage appliance on a variety of commodity hardware servers running the VMware ESXi hypervisor."
-      tags: all, management, protection
     - title: "ONTAP MetroCluster"
       icon:  ./media/metrocluster.png
       url: https://docs.netapp.com/us-en/ontap-metrocluster/
@@ -73,22 +63,27 @@ product-family:
       url: https://docs.netapp.com/us-en/ontap-cli/
       summary: "Learn about the commands available to you in the ONTAP CLI."
       tags: all, management
-    - title: "ONTAP automation"
-      icon: ./media/icon-api.png
-      url: https://docs.netapp.com/us-en/ontap-automation/index.html 
-      summary: "Automate the deployment and administration of your ONTAP storage systems using the ONTAP REST API and supporting technologies."
-      tags: all, automation, management
-    - title: ONTAP EMS reference
+    - title: "ONTAP EMS reference"
       icon: ./media/cli.png
       url: https://docs.netapp.com/us-en/ontap-ems-9141/
       summary: "Learn about the Event Messaging System (EMS) events in ONTAP."
       tags: all, management
-    - title: "ONTAP 7-Mode Transition"
-      icon: ./media/transition-tools.png
-      url: https://docs.netapp.com/us-en/ontap-7mode-transition/
-      summary: "Transition data from legacy 7-Mode to modern clustered storage platforms."
-      tags: all, migration
-    - title: ONTAP Foreign LUN Import 
+    - title: "ONTAP automation"
+      icon: ./media/icon-api.png
+      url: https://docs.netapp.com/us-en/ontap-automation/index.html 
+      summary: "Automate the deployment and administration of your ONTAP storage systems using the ONTAP REST API and supporting technologies."
+      tags: all, automation, management      
+    - title: "Cloud Volumes ONTAP"
+      icon: ./media/icon-cvo.png
+      url: https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/index.html
+      summary: "Deploy a virtual instance of ONTAP to make cloud storage more affordable, intelligent, compliant, and secure."
+      tags: all, management, protection
+    - title: "ONTAP Select"
+      icon: ./media/server.png
+      url: https://docs.netapp.com/us-en/ontap-select/
+      summary: "Deploy ONTAP as a software-defined storage appliance on a variety of commodity hardware servers running the VMware ESXi hypervisor."
+      tags: all, management, protection      
+    - title: "ONTAP Foreign LUN Import" 
       icon: ./media/transition-tools.png
       url: https://docs.netapp.com/us-en/ontap-fli/
       summary: "Migrate LUNs from third-party arrays and 7-Mode systems to modern NetApp storage."
