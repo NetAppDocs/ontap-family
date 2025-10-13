@@ -10,8 +10,6 @@ product-family:
       tags: automation
     - title: Data management 
       tags: management
-    - title: Data migration 
-      tags: migration
     - title: Data protection 
       tags: protection
     - title: Hardware systems
@@ -72,8 +70,3 @@ product-family:
       url: ../ontap-select/index.html
       summary: "Deploy ONTAP as a software-defined storage appliance on a variety of commodity hardware servers running the VMware ESXi hypervisor."
       tags: all, management, protection      
-    - title: "ONTAP Foreign LUN Import" 
-      icon: ./media/transition-tools.png
-      url: ../ontap-fli/index.html
-      summary: "Migrate LUNs from third-party arrays and 7-Mode systems to modern NetApp storage."
-      tags: all, migration
