@@ -25,6 +25,11 @@ product-family:
       url: ../ontap-systems-family/index.html
       summary: "Learn how to install, maintain, and upgrade All-Flash FAS systems, All-Flash SAN Array systems, and FAS hybrid-flash arrays."
       tags: all, hardware
+    - title: "AFX systems"
+      icon: ./media/groups_line.png
+      url: ../ontap-afx/index.html
+      summary: "Install your AFX system and use ONTAP to manage data."
+      tags: all, hardware
     - title: "ASA r2 systems"
       icon: ./media/groups_line.png
       url: ../asa-r2/index.html
