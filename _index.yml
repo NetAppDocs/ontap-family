@@ -73,5 +73,5 @@ product-family:
     - title: "ONTAP Select"
       icon: ./media/server.png
       url: ../ontap-select/index.html
-      summary: "Deploy ONTAP as a software-defined storage appliance on a variety of commodity hardware servers running the VMware ESXi hypervisor."
+      summary: "Deploy ONTAP as a software-defined storage appliance on a variety of commodity hardware servers running VMware ESXi or KVM hypervisors."
       tags: all, management, protection      
