@@ -56,7 +56,7 @@ product-family:
       summary: "Automate the deployment and administration of your ONTAP storage systems using the ONTAP REST API and supporting technologies."
       tags: all, automation, management      
     - title: "Cloud Volumes ONTAP"
-      url: ../cloud-manager-cloud-volumes-ontap/index.html
+      url: ../storage-management-cloud-volumes-ontap/index.html
       summary: "Deploy a virtual instance of ONTAP to make cloud storage more affordable, intelligent, compliant, and secure."
       tags: all, management, protection
     - title: "ONTAP Select"
