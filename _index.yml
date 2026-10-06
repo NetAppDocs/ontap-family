@@ -35,6 +35,10 @@ product-family:
       url: ../ontap-metrocluster/index.html
       summary: "Protect your storage using array-based clustering with synchronous replication to deliver continuous availability."
       tags: all, protection
+    - title: "ONTAP Mediator"
+      url: ../ontap-mediator/index.html
+      summary: "Use ONTAP Mediator to monitor MetroCluster IP and SnapMirror active sync configurations."
+      tags: all, protection
     - title: "ONTAP SAN host configuration"
       url: ../ontap-sanhost/index.html
       summary: "Configure ONTAP SAN hosts for the NVMe, iSCSI, and FC protocols."
